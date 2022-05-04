@@ -4,10 +4,10 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
-Date ""
-Rev ""
-Comp ""
+Title "Serial Expansion Card"
+Date "2022-05-04"
+Rev "A"
+Comp "Josh Cook"
 Comment1 ""
 Comment2 ""
 Comment3 ""
