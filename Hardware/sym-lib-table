@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name USB-C-to-Serial-rescue)(type Legacy)(uri "${KIPRJMOD}/USB-C to Serial-rescue.lib")(options "")(descr ""))
+  (lib (name 3-338168-2)(type Legacy)(uri "C:/Users/Josh/Documents/Footprints and Symbols/3-338168-2.lib")(options "")(descr ""))
+)
