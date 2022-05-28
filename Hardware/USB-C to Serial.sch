@@ -19,7 +19,7 @@ U 1 1 61CAD42C
 P 1950 1950
 F 0 "P1" H 2057 2817 50  0000 C CNN
 F 1 "USB_C_Plug_USB2.0" H 2057 2726 50  0000 C CNN
-F 2 "SnapEDA Library:GCT_USB4155-03-C_REVA" H 2100 1950 50  0001 C CNN
+F 2 "Expansion_Card:USB_C_Plug_Molex_105444" H 2100 1950 50  0001 C CNN
 F 3 "https://www.usb.org/sites/default/files/documents/usb_type-c.zip" H 2100 1950 50  0001 C CNN
 	1    1950 1950
 	1    0    0    -1  
@@ -494,13 +494,7 @@ F 3 "~" H 3500 6350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 Wire Wire Line
-	3500 6450 3500 6500
-Wire Wire Line
-	3500 6250 3500 6200
-Wire Wire Line
 	2900 6000 3950 6000
-Connection ~ 3500 6200
-Connection ~ 3500 6500
 Wire Wire Line
 	3950 6400 3950 6500
 Wire Wire Line
