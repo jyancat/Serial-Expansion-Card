@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DB9 RS232 Adapter")(type "KiCad")(uri "${KIPRJMOD}/Footprints Symbols/DB9 RS232 Adapter.kicad_sym")(options "")(descr ""))
+)
